@@ -36,12 +36,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kindo&show_icons=true&locale=en&theme=react" alt="aayush-kindo"/></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kindo&theme=tokyonight" alt="aayush-kindo"/></p>
 
-<img src="http://ghchart.rshah.org/0D6EFD/amandk5" alt="My GitHub chart" width="100%">
+
 
 <p></p>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=atrisomya&hide_border=false&theme=tokyo-night">
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aayush-kindo&hide_border=false&theme=tokyo-night">
  <p></p>
- <img src="https://github.com/atrisomya/atrisomya/blob/output/github-contribution-grid-snake.gif">
+ 
 
 
 
