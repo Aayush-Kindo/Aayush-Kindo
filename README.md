@@ -31,10 +31,10 @@
 ## My Github Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amandk5&show_icons=true&locale=en&layout=compact&theme=react" alt="amandk5" backgroundColor="#20232A" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kindo&" alt="aayush-kindo" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amandk5&show_icons=true&locale=en&theme=react" alt="amandk5"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amandk5&theme=tokyonight" alt="amandk5"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kindo&show_icons=true&locale=en&theme=react" alt="aayush-kindo"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kindo&theme=tokyonight" alt="aayush-kindo"/></p>
 
 <img src="http://ghchart.rshah.org/0D6EFD/amandk5" alt="My GitHub chart" width="100%">
 
