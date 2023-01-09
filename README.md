@@ -37,5 +37,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kindo&theme=tokyonight" alt="aayush-kindo"/></p>
 
 <img src="http://ghchart.rshah.org/0D6EFD/amandk5" alt="My GitHub chart" width="100%">
+<img src="https://github.com/aayush-kindo/aayush-kindo/blob/output/github-contribution-grid-snake.gif">
 
 
