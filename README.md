@@ -34,7 +34,8 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=aayush-kindo&show_icons=true&locale=en&theme=react" alt="aayush-kindo"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kindo&theme=tokyonight" alt="aayush-kindo"/></p>
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayush-kindo&theme=tokyonight" alt="aayush-kindo"/></p>
 
 
 
