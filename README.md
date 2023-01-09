@@ -10,7 +10,7 @@
 
 
 - 📫 How to reach me **aayush.kindo@outlook.com**
-- - My Portfolio [https://aayush-kindo.github.io/](https://aayush-kindo.github.io/)
+- My Portfolio [https://aayush-kindo.github.io/](https://aayush-kindo.github.io/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-kindo&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-kindo" /> </p>
 
