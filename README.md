@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **aayush.kindo@outlook.com**
 - 💼 Portfolio - [https://aayush-kindo.github.io/]
+- 📄 Resume - [https://drive.google.com/file/d/1gQdvhYyaTMsq7Uc-6h2k0Q79eiVmT0Tk/view]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-kindo&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-kindo" /> </p>
 
